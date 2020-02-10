@@ -1,2 +1,0 @@
-# serverlessBlog
-Created with CodeSandbox
